@@ -1,0 +1,2 @@
+mpe_sin;TZ1,0.8;seg1,0.2
+TZ1;seg2,0.8;TZ2,0.2
