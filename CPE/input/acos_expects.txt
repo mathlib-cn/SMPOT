@@ -1,0 +1,3 @@
+cpe_acos;seg1,0.8;TZ1,0.2
+seg1;TZ2,0.8;seg2,0.2
+TZ2;seg3,0.8;TZ3,0.2
